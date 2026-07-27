@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/accompany-website/static/css/main.aeb88b06.css",
+    "main.js": "/accompany-website/static/js/main.600b843f.js",
+    "static/media/Ca_Video.mp4": "/accompany-website/static/media/Ca_Video.37575574a30f92465880.mp4",
+    "static/media/p2.jpg": "/accompany-website/static/media/p2.02e9ca8d8bf970c7c21b.jpg",
+    "static/media/p1.jpg": "/accompany-website/static/media/p1.cd2f685977740a8cf2c4.jpg",
+    "static/media/p6.jpg": "/accompany-website/static/media/p6.3384c073d19dd4d7319e.jpg",
+    "static/media/p3.jpg": "/accompany-website/static/media/p3.831da5189845a885aa83.jpg",
+    "static/media/carousel-1.jpg": "/accompany-website/static/media/carousel-1.580323fd42819ddb11d9.jpg",
+    "static/media/carousel-2.jpg": "/accompany-website/static/media/carousel-2.e67221a5c43968e9ef5d.jpg",
+    "static/media/video.jpg": "/accompany-website/static/media/video.5a8116233761d401c8b1.jpg",
+    "static/media/logoP.png": "/accompany-website/static/media/logoP.c71e87ca8693af9ff37a.png",
+    "static/media/slick.svg": "/accompany-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/accompany-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/accompany-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/accompany-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/accompany-website/index.html",
+    "main.aeb88b06.css.map": "/accompany-website/static/css/main.aeb88b06.css.map",
+    "main.600b843f.js.map": "/accompany-website/static/js/main.600b843f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb88b06.css",
+    "static/js/main.600b843f.js"
+  ]
+}
