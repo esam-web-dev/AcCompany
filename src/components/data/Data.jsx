@@ -1,3 +1,10 @@
+import P11 from "../../images/testimonial-1.jpg";
+import P12 from "../../images/testimonial-2.jpg";
+import P13 from "../../images/testimonial-3.jpg";
+import P14 from "../../images/testimonial-4.jpg";
+
+
+
 export const navList = [
   {
     id: 1,
@@ -221,7 +228,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-1.jpg",
+    img: P11,
   },
   {
     description:
@@ -231,7 +238,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-2.jpg",
+    img: P12,
   },
   {
     description:
@@ -241,7 +248,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-3.jpg",
+    img: P13,
   },
 ];
 
